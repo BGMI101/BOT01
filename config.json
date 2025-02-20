@@ -1,5 +1,5 @@
 {
   "bot_token": "7027104584:AAHqyALIMwhRKY8TWWnBFgN2sLf70Q_tW30",
   "admin_ids": ["6804992562"],
-  "attack_cooldown": 300
+  "attack_cooldown": 0
 }
